@@ -40,7 +40,7 @@ The Angle Prediction System presented here follows NVIDIA’s methodology, adapt
   
 
 
-<img height="500" alt="Screenshot 2025-04-16 at 12:07:29 PM" src="https://github.com/user-attachments/assets/02e852fc-0e70-4301-9595-1caf6aaaeb78" />
+<img height="700" alt="Screenshot 2025-04-16 at 12:07:29 PM" src="https://github.com/user-attachments/assets/02e852fc-0e70-4301-9595-1caf6aaaeb78" />
 
 <p align="center">
   <em>Figure 1: Data preprocessing and normalization pipeline before feeding inputs into the deep learning model.</em>

@@ -19,7 +19,7 @@ The Angle Prediction System presented here follows NVIDIA’s methodology, adapt
 * Visualization of predicted vs. actual values
 * Scalable for real-time prediction use cases
 
-2) Tech Stack
+2)Tech Stack
 
 * **Programming Language:** Python
 * **Libraries:** TensorFlow/Keras, NumPy, Pandas, Matplotlib, Seaborn
@@ -32,7 +32,7 @@ The Angle Prediction System presented here follows NVIDIA’s methodology, adapt
 3. Evaluate using error metrics
 4. Visualize results
 
-4) Applications
+4)Applications
 
 * Robotic arm position control
 * Orientation estimation in IoT devices

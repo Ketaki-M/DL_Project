@@ -39,9 +39,10 @@ The Angle Prediction System presented here follows NVIDIA’s methodology, adapt
 * Camera and sensor calibration
   
 <img height="400" alt="Screenshot 2025-04-16 at 12:07:29 PM" src="https://github.com/user-attachments/assets/02e852fc-0e70-4301-9595-1caf6aaaeb78" />
-<img height="400" alt="Screenshot 2025-04-16 at 12:10:51 PM" src="https://github.com/user-attachments/assets/5d12e53a-e008-45ed-aa0d-8fb37ee592bd" />
-<img height="400" alt="Screenshot 2025-04-16 at 12:13:52 PM" src="https://github.com/user-attachments/assets/d8b53cba-69f2-4533-a059-752470c5c30c" />
-<img height="400" alt="Screenshot 2025-04-16 at 12:13:00 PM" src="https://github.com/user-attachments/assets/223e8e1f-d0cf-405b-8116-1b99418a32fb" />
+
+<img height="500" alt="Screenshot 2025-04-16 at 12:10:51 PM" src="https://github.com/user-attachments/assets/5d12e53a-e008-45ed-aa0d-8fb37ee592bd" />
+
+
 
 
 

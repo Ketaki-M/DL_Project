@@ -37,5 +37,8 @@ The Angle Prediction System presented here follows NVIDIA’s methodology, adapt
 * Robotic arm position control
 * Orientation estimation in IoT devices
 * Camera and sensor calibration
+<img width="1173" height="761" alt="Screenshot 2025-04-16 at 12 07 29 PM" src="https://github.com/user-attachments/assets/02e852fc-0e70-4301-9595-1caf6aaaeb78" />
+
+  
 
 

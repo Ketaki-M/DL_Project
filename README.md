@@ -38,10 +38,10 @@ The Angle Prediction System presented here follows NVIDIA’s methodology, adapt
 * Orientation estimation in IoT devices
 * Camera and sensor calibration
   
-<img width="1173" height="761" alt="Screenshot 2025-04-16 at 12 07 29 PM" src="https://github.com/user-attachments/assets/02e852fc-0e70-4301-9595-1caf6aaaeb78" />
-<img width="717" height="395" alt="Screenshot 2025-04-16 at 12 10 51 PM" src="https://github.com/user-attachments/assets/5d12e53a-e008-45ed-aa0d-8fb37ee592bd" />
-<img width="908" height="551" alt="Screenshot 2025-04-16 at 12 13 52 PM" src="https://github.com/user-attachments/assets/d8b53cba-69f2-4533-a059-752470c5c30c" />
-<img width="759" height="588" alt="Screenshot 2025-04-16 at 12 13 00 PM" src="https://github.com/user-attachments/assets/223e8e1f-d0cf-405b-8116-1b99418a32fb" />
+<img width="1173" height="500" alt="Screenshot 2025-04-16 at 12 07 29 PM" src="https://github.com/user-attachments/assets/02e852fc-0e70-4301-9595-1caf6aaaeb78" />
+<img width="717" height="500" alt="Screenshot 2025-04-16 at 12 10 51 PM" src="https://github.com/user-attachments/assets/5d12e53a-e008-45ed-aa0d-8fb37ee592bd" />
+<img width="908" height="500" alt="Screenshot 2025-04-16 at 12 13 52 PM" src="https://github.com/user-attachments/assets/d8b53cba-69f2-4533-a059-752470c5c30c" />
+<img width="759" height="500" alt="Screenshot 2025-04-16 at 12 13 00 PM" src="https://github.com/user-attachments/assets/223e8e1f-d0cf-405b-8116-1b99418a32fb" />
 
 
 

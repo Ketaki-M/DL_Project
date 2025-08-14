@@ -11,6 +11,8 @@ Industry leaders like Waymo and Tesla have proven the effectiveness of such AI-d
 
 The Angle Prediction System presented here follows NVIDIA’s methodology, adapted for a custom dataset and workflow. The project includes data preprocessing, model training using deep learning regression, and evaluation using metrics like MAE and RMSE. This reimplementation demonstrates how AI can be applied to real-time decision-making tasks in self-driving cars, and it can be extended to other applications such as drones, robotic arms, and orientation-aware IoT devices.
 
+1)KEY POINTS
+
 * Preprocessing and normalization for stable model training
 * Neural network architecture optimized for regression tasks
 * Evaluation using MAE and RMSE metrics
